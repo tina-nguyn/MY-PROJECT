@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+}
+
+/* HEADER */
+.header {
+    margin-bottom: 40px;
+}
+
+.logo {
+    background: black;
+    color: white;
+    width: 40px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.name {
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.icons {
+    color: red;
+}
+
+/* MAIN */
+.main {
+    margin-bottom: 40px;
+}
+
+.avatar {
+    width: 90%;
+}
+
+.content {
+    padding-left: 40px;
+}
+
+.small {
+    color: gray;
+    font-size: 12px;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+/* STATS */
+.stats td {
+    padding: 20px;
+    color: red;
+}
+
+.stats b {
+    font-size: 24px;
+}
+
+/* ABOUT */
+.about h3 {
+    border-bottom: 2px solid red;
+    display: inline-block;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    border: 1px solid red;
+    background: white;
+    color: red;
+    border-radius: 20px;
+    cursor: pointer;
+}
